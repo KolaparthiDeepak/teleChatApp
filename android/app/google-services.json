@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "845961504278",
+    "project_id": "flash-chat-4c2d3",
+    "storage_bucket": "flash-chat-4c2d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845961504278:android:7c81a3ea12d43fdabbb737",
+        "android_client_info": {
+          "package_name": "com.deepak.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "845961504278-4i9l41sjju4pqbdesuafr4727b0gpia9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7naTvVIEAch0JgCAtxuOF8BreT0DwB4M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "845961504278-4i9l41sjju4pqbdesuafr4727b0gpia9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
